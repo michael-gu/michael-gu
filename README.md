@@ -2,7 +2,7 @@
 
 <p align="center">Profile Visitors:
   <span style="margin-left: 10px;">
-    <img src="https://profile-counter.glitch.me/%7Bmichael-gu%7D/count.svg" alt="visitor badge" style="vertical-align: middle;">
+    <img src="https://profile-counter.glitch.me/%7Bmichael-gu%7D/count.svg?style=white-blue" alt="visitor badge" style="vertical-align: middle;">
   </span>
 </p>
 <div align="center">
