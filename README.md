@@ -2,7 +2,7 @@
 
 <p align="center" width="150px"> 2nd Year Computer Science Student at the University of Washington</p>
 
-<p align="center"><b>Profile Visitors: <img src="https://profile-counter.glitch.me/%7Bmichael-gu%7D/count.svg" alt="visitor badge"/></b></p>
+<p align="center">Profile Visitors: <img src="https://profile-counter.glitch.me/%7Bmichael-gu%7D/count.svg" alt="visitor badge"/></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michael-gu&layout=compact&hide=TSQL&theme=light" width="400" padding-right="50"> <img src="https://github-readme-stats.vercel.app/api?username=michael-gu&count_private=true&show_icons=true&&theme=light&include_all_commits=true" width="400" padding-left="50"></p>
 
 <p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=michael-gu&theme=light"></p>
