@@ -1,7 +1,7 @@
 ![Header](./github-header-image.png)
 
 ## 💫 Liitle Bit More About Me
-<div align="center">
+<div align="left">
   <h3>Current Projects</h1>
   <ul>
     <li>Multi-Vector Search on Postgres Vector DB using Hausdorff distance</li>
@@ -13,7 +13,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michael-gu&layout=compact&hide=TSQL&theme=light" width="400" padding-right="50">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=michael-gu&theme=light" width="400" padding-left="50">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=michael-gu&theme=light" width="400" padding-left="50", vertical-align="center">
 </div>
 
 ## 💻 Skills
