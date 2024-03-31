@@ -1,4 +1,4 @@
-<img src="./github-banner.png">
+<img src="./banner.png">
 
 ## 💫 About Me
 <div align="left">
