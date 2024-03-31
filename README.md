@@ -1,10 +1,6 @@
 ![Header](./github-header-image.png)
 
-<p align="center">Profile Visitors:
-  <span style="margin-left: 10px;">
-    <img src="https://profile-counter.glitch.me/%7Bmichael-gu%7D/count.svg?style=white-blue" alt="visitor badge" style="vertical-align: middle;">
-  </span>
-</p>
+![Visitor Count](https://profile-counter.glitch.me/michael-gu/count.svg)
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michael-gu&layout=compact&hide=TSQL&theme=light" width="400" style="margin-right: 50px;">
   <img src="https://github-readme-stats.vercel.app/api?username=michael-gu&count_private=true&show_icons=true&&theme=light&include_all_commits=true" width="400" style="margin-left: 50px;">
