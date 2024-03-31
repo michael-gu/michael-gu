@@ -1,6 +1,13 @@
 ![Header](./github-header-image.png)
 
-![Visitor Count](https://profile-counter.glitch.me/michael-gu/count.svg)
+<div align="center">
+  <h3>Current Projects</h1>
+  <ul>
+    <li>Multi-Vector Search on Postgres Vector DB using Hausdorff distance</li>
+    <li>Data-Decoupled Federated Learning</li>
+  </ul>  
+</div>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michael-gu&layout=compact&hide=TSQL&theme=light" width="400" style="margin-right: 50px;">
   <img src="https://github-readme-stats.vercel.app/api?username=michael-gu&count_private=true&show_icons=true&&theme=light&include_all_commits=true" width="400" style="margin-left: 50px;">
