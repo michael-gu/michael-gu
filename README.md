@@ -11,9 +11,9 @@
 
 ## 📊 Github Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michael-gu&layout=compact&hide=TSQL&theme=light" width="400" padding-right="50">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=michael-gu&theme=light" width="400" padding-left="50", style="vertical-align: middle;">
+<div align="left" style="display: flex; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michael-gu&layout=compact&hide=TSQL&theme=light" width="400" style="margin-right: 50px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=michael-gu&theme=light" width="400" style="margin-left: 50px;">
 </div>
 
 ## 💻 Skills
