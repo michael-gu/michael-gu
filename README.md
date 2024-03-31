@@ -6,12 +6,12 @@ I'm a second year CS student at UW graduating on 2025. Incoming intern at Micros
 ## 🌟 Current Projects/Research
 Multi-Vector Search on Postgres Vector DB implementing Hausdorff distance\
 Enhancing Data Provenance and Transparency in Data-Decoupled Federated Learning\
-https://arxiv.org/abs/2403.01451\
+https://arxiv.org/abs/2403.01451
 
 ## 📊 Github Stats
 <div align="left" style="display: flex;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michael-gu&layout=compact&hide=TSQL&theme=light" width="400" style="margin-right: 100px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=michael-gu&theme=light" style="margin-left: 100px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=michael-gu&theme=light" width="600" style="margin-left: 100px;">
 </div>
 
 ## 💻 Skills
