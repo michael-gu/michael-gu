@@ -11,7 +11,7 @@ https://arxiv.org/abs/2403.01451
 ## 📊 Github Stats
 <div align="left" style="display: flex;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michael-gu&layout=compact&hide=TSQL&theme=light" width="400" style="margin-right: 100px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=michael-gu&theme=light" width="550" style="margin-left: 100px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=michael-gu&theme=light" width="560" style="margin-left: 100px;">
 </div>
 
 ## 💻 Skills
