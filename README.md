@@ -1,6 +1,4 @@
-<h1 align="center"><img src="./github-header-image.png"></h1>
-
-<p align="center" width="150px"> 2nd Year Computer Science Student at the University of Washington</p>
+![Header](./github-header-image.png)
 
 <p align="center">Profile Visitors:
   <span style="margin-left: 10px;">
