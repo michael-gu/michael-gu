@@ -4,8 +4,9 @@
 I'm a second year CS student at UW graduating on 2025. Incoming intern at Microsoft Azure Data's Power Query team for Summer 2024.
 
 ## 🌟 Current Projects/Research
-Multi-Vector Search on Postgres Vector DB using Hausdorff distance
-Data-Decoupled Federated Learning
+Multi-Vector Search on Postgres Vector DB implementing Hausdorff distance\
+Enhancing Data Provenance and Transparency in Data-Decoupled Federated Learning\
+https://arxiv.org/abs/2403.01451\
 
 ## 📊 Github Stats
 <div align="left" style="display: flex;">
