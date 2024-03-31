@@ -1,6 +1,7 @@
-![Header](./github-header-image.png)
+# Hi! I am Michael Gu
+## Computer Science @ University of Washington
 
-## 💫 Liitle Bit More About Me
+## 💫 About Me
 <div align="left">
   <h3>Current Projects</h1>
   <ul>
@@ -44,7 +45,7 @@
 
 ### :link: &nbsp;Connect with me
 
-<p align="center">
-<a href="https://linkedin.com/in/mich-gu"><img src="https://img.shields.io/badge/-Michael%20Gu-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:michgu@cs.washington.edu"><img src="https://img.shields.io/badge/-michgu@cs.washington.edu-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+<p align="left">
+<a href="https://linkedin.com/in/mich-gu"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:michgu@cs.washington.edu"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 </p>
