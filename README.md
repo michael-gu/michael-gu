@@ -10,8 +10,8 @@ https://arxiv.org/abs/2403.01451
 
 ## 📊 Github Stats
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michael-gu&layout=compact&hide=TSQL&theme=light" width="400" style="margin-right: 50px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=michael-gu&theme=light" width="560" style="margin-left: 50px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michael-gu&layout=compact&hide=TSQL&theme=light" width="200" style="margin-right: 10px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=michael-gu&theme=light" width="280" style="margin-left: 10px;">
 </div>
 
 ## 💻 Skills
