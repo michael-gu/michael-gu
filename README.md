@@ -4,7 +4,7 @@
 
 <p align="center"><b>Visitor's Count</b></p>
 <p align="center"><img src="https://profile-counter.glitch.me/%7Bmichael-gu%7D/count.svg" alt="visitor badge"/></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michael-gu&layout=compact&hide=TSQL&theme=dark" width="400" height="600" padding="100"> <img src="https://github-readme-stats.vercel.app/api?username=michael-gu&count_private=true&show_icons=true&&theme=dark&include_all_commits=true" width="400" height="600"></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michael-gu&layout=compact&hide=TSQL&theme=light" width="400" height="600" padding-right="50"> <img src="https://github-readme-stats.vercel.app/api?username=michael-gu&count_private=true&show_icons=true&&theme=light&include_all_commits=true" width="400" height="600" padding-left="50"></p>
 
 <p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=michael-gu&theme=light"></p>
 
