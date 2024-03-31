@@ -1,5 +1,4 @@
-# Hi! I am Michael Gu
-## Computer Science @ University of Washington
+<img src="./github-banner.png">
 
 ## 💫 About Me
 <div align="left">
