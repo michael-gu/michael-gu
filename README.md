@@ -42,7 +42,5 @@ https://arxiv.org/abs/2403.01451
 
 ## 👥 Contact Me
 
-<p align="left">
-<a href="https://linkedin.com/in/mich-gu"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:michgu@cs.washington.edu"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-</p>
+[![Email](https://img.shields.io/badge/Email-michgu%40cs.washington.edu-blue)](mailto:michgu@cs.washington.edu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/mich-gu)
