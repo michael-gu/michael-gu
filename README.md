@@ -1,4 +1,4 @@
-<h1 align="center">Hi! I'm Michael Gu. <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px"></h1>
+<h1 align="center">Hi! I'm Michael Gu. <img src="./github-header-image.png" width="30px"></h1>
 
 <p align="center" width="150px"> 2nd Year Computer Science Student at the University of Washington</p>
 
