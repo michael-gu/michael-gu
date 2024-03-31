@@ -1,5 +1,6 @@
 ![Header](./github-header-image.png)
 
+## 💫 Liitle Bit More About Me
 <div align="center">
   <h3>Current Projects</h1>
   <ul>
@@ -8,16 +9,14 @@
   </ul>  
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michael-gu&layout=compact&hide=TSQL&theme=light" width="400">
-</div>
+## 📊 Github Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=michael-gu&theme=light" width="400">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michael-gu&layout=compact&hide=TSQL&theme=light" width="400" padding-right="50">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=michael-gu&theme=light" width="400" padding-left="50">
 </div>
 
-
-### 🛠 &nbsp;Tech Stack
+## 💻 Skills
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![C#](https://img.shields.io/badge/-C#-05122A?style=flat&logo=csharp)&nbsp;
