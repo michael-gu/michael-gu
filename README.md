@@ -1,19 +1,16 @@
 <img src="./banner.png">
 
 ## 💫 About Me
-<div align="left">
-  <h3>Current Projects</h1>
-  <ul>
-    <li>Multi-Vector Search on Postgres Vector DB using Hausdorff distance</li>
-    <li>Data-Decoupled Federated Learning</li>
-  </ul>  
-</div>
+I'm a second year CS student at UW graduating on 2025. Incoming intern at Microsoft Azure Data's Power Query team for Summer 2024.
+
+## 🌟 Current Projects/Research
+Multi-Vector Search on Postgres Vector DB using Hausdorff distance
+Data-Decoupled Federated Learning
 
 ## 📊 Github Stats
-
-<div align="left" style="display: flex; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michael-gu&layout=compact&hide=TSQL&theme=light" width="400" style="margin-right: 50px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=michael-gu&theme=light" width="400" style="margin-left: 50px;">
+<div align="left" style="display: flex;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michael-gu&layout=compact&hide=TSQL&theme=light" width="400" style="margin-right: 100px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=michael-gu&theme=light" style="margin-left: 100px;">
 </div>
 
 ## 💻 Skills
@@ -42,7 +39,7 @@
 
 
 
-### :link: &nbsp;Connect with me
+## 👥 Contact Me
 
 <p align="left">
 <a href="https://linkedin.com/in/mich-gu"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
