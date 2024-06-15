@@ -1,7 +1,7 @@
 <img src="./banner.png">
 
 ## 💫 About Me
-Incoming intern at Microsoft Azure Data's Power Query team for Summer 2024. Graduating in June 2025.
+Incoming intern at Microsoft Fabrics's Azure Synapse (Spark) team for Summer 2024. Graduating in June 2025.
 
 ## 🌟 Current Projects/Research
 Multi-Vector Search on Postgres Vector DB implementing Hausdorff distance\
