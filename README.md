@@ -1,9 +1,9 @@
-<img src="./banner.png">
-
 ## 💫 About Me
-Incoming intern at Microsoft Fabrics's Azure Synapse (Spark) team for Summer 2024. Graduating in June 2025.
+Current Jr. SDE at Amazon Books' Print on Demand team.\
+Former SWE intern at Microsoft Fabrics's Lakehouse Storage team for Summer 2024.\
+Former Undergraduate Project Lead at High-Performance Data-Intensive Computing Lab (under UW Database Lab)
 
-## 🌟 Current Projects/Research
+## 🌟 Past Projects/Research
 Multi-Vector Search on Postgres Vector DB implementing Hausdorff distance\
 Enhancing Data Provenance and Transparency in Data-Decoupled Federated Learning\
 https://arxiv.org/abs/2403.01451
